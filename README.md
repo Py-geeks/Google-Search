@@ -1,5 +1,5 @@
-# Google-Search
-## Description
+# Google-Search<br>
+### Description
 Its quite handy to perform a google search using python. It shows the top URLs for the required query.
 
 ### Tools and Languages:
