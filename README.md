@@ -56,6 +56,6 @@ The search function returns the URLs of all the relevant searches.
 ### Sample Optput
 <img src="https://github.com/ankush0939/Google-Search/blob/main/googleSearch.png" height="200px" weidht="200px">
 
-### Developed by;
+### Developed by:
 <a href="https://github.com/ankush0939">Ankush Mishra</a>
 
